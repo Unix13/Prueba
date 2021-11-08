@@ -24,6 +24,6 @@ public class Prueba {
 		}
 
 		resultado = operando1 % operando2;
-		System.out.println(resultado);
+		 System.out.println(resultado);
 	}
 }
